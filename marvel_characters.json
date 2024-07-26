@@ -1,0 +1,172 @@
+[
+    {
+        "Character Name": "Iron Man",
+        "Actor Name": "Robert Downey Jr.",
+        "First Appearance": "Iron Man (2008)",
+        "Abilities/Powers": "Genius-level intellect, expert engineer, powered armor suit",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Thanos",
+        "Brief Description": "Arrogant billionaire who builds a high-tech suit to become a superhero.",
+        "Image": "images/ironman.jpg"
+    },
+    {
+        "Character Name": "Captain America",
+        "Actor Name": "Chris Evans",
+        "First Appearance": "Captain America: The First Avenger (2011)",
+        "Abilities/Powers": "Superhuman strength, agility, and endurance",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Red Skull",
+        "Brief Description": "Super-soldier with a vibranium shield fighting for justice during WWII and beyond.",
+        "Image": "images/captainamerica.jpg"
+    },
+    {
+        "Character Name": "Thor",
+        "Actor Name": "Chris Hemsworth",
+        "First Appearance": "Thor (2011)",
+        "Abilities/Powers": "God-like strength, control over thunder, and flight",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Loki",
+        "Brief Description": "God of Thunder from Asgard wielding the powerful hammer Mjolnir.",
+        "Image": "images/thor.jpg"
+    },
+    {
+        "Character Name": "Black Widow",
+        "Actor Name": "Scarlett Johansson",
+        "First Appearance": "Iron Man 2 (2010)",
+        "Abilities/Powers": "Expert martial artist, espionage skills",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Taskmaster",
+        "Brief Description": "Former KGB assassin turned S.H.I.E.L.D. agent and Avenger.",
+        "Image": "images/blackwidow.jpg"
+    },
+    {
+        "Character Name": "Hulk",
+        "Actor Name": "Mark Ruffalo",
+        "First Appearance": "The Incredible Hulk (2008)",
+        "Abilities/Powers": "Superhuman strength and durability, gamma radiation-based transformations",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Abomination",
+        "Brief Description": "Scientist who transforms into a giant, green-skinned behemoth when enraged.",
+        "Image": "images/hulk.jpg"
+    },
+    {
+        "Character Name": "Spider-Man",
+        "Actor Name": "Tom Holland",
+        "First Appearance": "Captain America: Civil War (2016)",
+        "Abilities/Powers": "Spider-like agility, wall-crawling, web-shooting",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Green Goblin",
+        "Brief Description": "Teenager with spider-like abilities and a strong moral compass.",
+        "Image": "images/spiderman.jpg"
+    },
+    {
+        "Character Name": "Doctor Strange",
+        "Actor Name": "Benedict Cumberbatch",
+        "First Appearance": "Doctor Strange (2016)",
+        "Abilities/Powers": "Mastery of magic, spell casting, and manipulation of time and space",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Dormammu",
+        "Brief Description": "Former neurosurgeon turned Sorcerer Supreme who protects the Earth from mystical threats.",
+        "Image": "images/doctorstrange.jpg"
+    },
+    {
+        "Character Name": "Black Panther",
+        "Actor Name": "Chadwick Boseman",
+        "First Appearance": "Black Panther (2018)",
+        "Abilities/Powers": "Enhanced strength, agility, and vibranium suit",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Killmonger",
+        "Brief Description": "King of Wakanda with advanced technology and physical prowess.",
+        "Image": "images/blackpanther.jpg"
+    },
+    {
+        "Character Name": "Ant-Man",
+        "Actor Name": "Paul Rudd",
+        "First Appearance": "Ant-Man (2015)",
+        "Abilities/Powers": "Ability to shrink and grow in size, control ants",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Yellowjacket",
+        "Brief Description": "Former thief who becomes a superhero with the ability to change size and communicate with ants.",
+        "Image": "images/antman.jpg"
+    },
+    {
+        "Character Name": "Captain Marvel",
+        "Actor Name": "Brie Larson",
+        "First Appearance": "Captain Marvel (2019)",
+        "Abilities/Powers": "Superhuman strength, flight, energy blasts",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Thanos",
+        "Brief Description": "Former Air Force pilot with cosmic powers after exposure to alien technology.",
+        "Image": "images/captainmarvel.jpg"
+    },
+    {
+        "Character Name": "Wanda Maximoff",
+        "Actor Name": "Elizabeth Olsen",
+        "First Appearance": "Avengers: Age of Ultron (2015)",
+        "Abilities/Powers": "Telekinesis, reality manipulation",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Agatha Harkness",
+        "Brief Description": "Mutant with reality-altering powers and a deep connection to the mystical arts.",
+        "Image": "images/wandamaximoff.jpg"
+    },
+    {
+        "Character Name": "Vision",
+        "Actor Name": "Paul Bettany",
+        "First Appearance": "Avengers: Age of Ultron (2015)",
+        "Abilities/Powers": "Superhuman strength, density control, flight",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Ultron",
+        "Brief Description": "Android with a synthetic body and Mind Stone that gives him advanced abilities.",
+        "Image": "images/vision.jpg"
+    },
+    {
+        "Character Name": "Hawkeye",
+        "Actor Name": "Jeremy Renner",
+        "First Appearance": "Thor (2011)",
+        "Abilities/Powers": "Expert marksman, skilled hand-to-hand combatant",
+        "Team Affiliations": "Avengers",
+        "Notable Enemies": "Trickster",
+        "Brief Description": "Master archer and former S.H.I.E.L.D. agent known for his precision and strategic skills.",
+        "Image": "images/hawkeye.jpg"
+    },
+    {
+        "Character Name": "Star-Lord",
+        "Actor Name": "Chris Pratt",
+        "First Appearance": "Guardians of the Galaxy (2014)",
+        "Abilities/Powers": "Expert pilot, leadership skills, elemental blasters",
+        "Team Affiliations": "Guardians of the Galaxy",
+        "Notable Enemies": "Thanos",
+        "Brief Description": "Leader of the Guardians with a mix of charisma and space-faring skills.",
+        "Image": "images/starlord.jpg"
+    },
+    {
+        "Character Name": "Gamora",
+        "Actor Name": "Zoe Saldana",
+        "First Appearance": "Guardians of the Galaxy (2014)",
+        "Abilities/Powers": "Superhuman strength, combat skills",
+        "Team Affiliations": "Guardians of the Galaxy",
+        "Notable Enemies": "Thanos",
+        "Brief Description": "Skilled warrior and adopted daughter of Thanos seeking redemption.",
+        "Image": "images/gamora.jpg"
+    },
+    {
+        "Character Name": "Rocket Raccoon",
+        "Actor Name": "Bradley Cooper",
+        "First Appearance": "Guardians of the Galaxy (2014)",
+        "Abilities/Powers": "Enhanced agility, expert marksman, skilled engineer",
+        "Team Affiliations": "Guardians of the Galaxy",
+        "Notable Enemies": "Thanos",
+        "Brief Description": "Genetically modified raccoon with a knack for weaponry and engineering.",
+        "Image": "images/rocketraccoon.jpg"
+    },
+    {
+        "Character Name": "Groot",
+        "Actor Name": "Vin Diesel",
+        "First Appearance": "Guardians of the Galaxy (2014)",
+        "Abilities/Powers": "Regenerative abilities, superhuman strength",
+        "Team Affiliations": "Guardians of the Galaxy",
+        "Notable Enemies": "Thanos",
+        "Brief Description": "Tree-like being with the ability to regenerate and an endearing personality.",
+        "Image": "images/groot.jpg"
+    }
+]

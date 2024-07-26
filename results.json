@@ -1,0 +1,4 @@
+[
+    {"name": "Character A", "attributes": {"Abilities/Powers": "Superhuman strength", "Notable Enemies": "Thanos", "Team Affiliations": "Guardians of the Galaxy"}, "answered": False},
+    {"name": "Character B", "attributes": {"Abilities/Powers": "powered armor suit"}, "answered": False}
+]
